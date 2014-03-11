@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<sudokuImage>
+  <image uri="image64.JPG">
+    <camera brand="blackBerry" model=""/>
+    <quality deformation="1" light="1" rotation="1" blur="1" shadow="1"/>
+    <imageSpecifications sizex="1632" sizey="1224" bitsPP="" encoding="JPG"/>
+  </image>
+  <sudoku labelling="Human">
+    <gridPosition>
+      <upLeft x="52" y="38"/>
+      <upRight x="553" y="42"/>
+      <downLeft x="47" y="466"/>
+      <downRight x="549" y="459"/>
+    </gridPosition>
+    <row rowId="1">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="2">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="3">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="4">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="5">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="6">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="7">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="8">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="9">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+  </sudoku>
+</sudokuImage>

@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<sudokuImage>
+  <image uri="image3.JPG">
+    <camera brand="sonyEricsson" model="s500i"/>
+    <quality deformation="2" light="2" rotation="1" blur="2" shadow="1"/>
+    <imageSpecifications sizex="640" sizey="480" bitsPP="24" encoding="JPG"/>
+  </image>
+  <sudoku labelling="Human">
+    <gridPosition>
+      <upLeft x="88" y="9"/>
+      <upRight x="512" y="10"/>
+      <downLeft x="83" y="454"/>
+      <downRight x="529" y="456"/>
+    </gridPosition>
+    <row rowId="1">
+      <col colId="1" cellValue="5"/>
+      <col colId="2" cellValue="3"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="7"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="8"/>
+    </row>
+    <row rowId="2">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="4"/>
+      <col colId="7" cellValue="9"/>
+      <col colId="8" cellValue="2"/>
+      <col colId="9" cellValue="5"/>
+    </row>
+    <row rowId="3">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="2"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="1"/>
+      <col colId="8" cellValue="7"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="4">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="1"/>
+      <col colId="4" cellValue="2"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="8"/>
+      <col colId="8" cellValue="4"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="5">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="4"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="2"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="9"/>
+    </row>
+    <row rowId="6">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="4"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="7"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="7">
+      <col colId="1" cellValue="9"/>
+      <col colId="2" cellValue="8"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="6"/>
+      <col colId="6" cellValue="1"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="0"/>
+    </row>
+    <row rowId="8">
+      <col colId="1" cellValue="0"/>
+      <col colId="2" cellValue="7"/>
+      <col colId="3" cellValue="5"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="0"/>
+      <col colId="7" cellValue="3"/>
+      <col colId="8" cellValue="8"/>
+      <col colId="9" cellValue="1"/>
+    </row>
+    <row rowId="9">
+      <col colId="1" cellValue="1"/>
+      <col colId="2" cellValue="0"/>
+      <col colId="3" cellValue="0"/>
+      <col colId="4" cellValue="0"/>
+      <col colId="5" cellValue="0"/>
+      <col colId="6" cellValue="5"/>
+      <col colId="7" cellValue="0"/>
+      <col colId="8" cellValue="0"/>
+      <col colId="9" cellValue="4"/>
+    </row>
+  </sudoku>
+</sudokuImage>
