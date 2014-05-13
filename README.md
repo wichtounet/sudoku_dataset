@@ -2,6 +2,8 @@
 
 This dataset contains images of Sudoku taken in various newspapers using martphone Cameras.
 
+This dataset contains 160 pictures of Sudoku, divided into two sets: 120 training images and 40 test images. 
+
 ### Results
 
 Here are some results that have been obtained on this dataset.
@@ -15,8 +17,8 @@ You can download the dataset using different ways:
 
 * Checkout this repository
 * Direct download an archive of the dataset:
-   * [test set](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_test.tar.bz2)
-   * [training set](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_training.tar.bz2)
+   * [v1_training.tar.bz2](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_training.tar.bz2)
+   * [v1_test.tar.bz2](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_test.tar.bz2)
 
 
 ### References
