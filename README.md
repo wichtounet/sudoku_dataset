@@ -15,6 +15,9 @@ You can download the dataset using different ways:
 
 * Checkout this repository
 * Direct download an archive of the dataset:
+   * [test et](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_test.tar.bz2)
+   * [training set](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_training.tar.bz2)
+
 
 ### References
 
