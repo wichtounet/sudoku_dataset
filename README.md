@@ -7,6 +7,7 @@ This dataset contains images of Sudoku taken in various newspapers using martpho
 Here are some results that have been obtained on this dataset.
 
 1. Baptiste Wicht / Jean Hennebert (EIA-FR, Switzerland) : Hough Transform and DBN : 12.5% error rate
+  * Link to paper: Will come
 
 ### Usage
 
@@ -19,7 +20,7 @@ You can download the dataset using different ways:
 
 If you want to use this dataset in a publication, please reference the following paper:
 
-TODO Add paper reference
+Will come
 
 ###  Format
 
