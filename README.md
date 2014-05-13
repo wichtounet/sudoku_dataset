@@ -2,13 +2,11 @@
 
 This dataset contains images of Sudoku taken in various newspapers using martphone Cameras.
 
-TODO Complete
-
 ### Results
 
 Here are some results that have been obtained on this dataset.
 
-TODO Put the results
+1. Baptiste Wicht / Jean Hennebert (EIA-FR, Switzerland) : Hough Transform and DBN : 12.5% error rate
 
 ### Usage
 
