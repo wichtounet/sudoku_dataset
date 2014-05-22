@@ -2,8 +2,8 @@
 
 counter=1045
 
-for file in baptiste/*
+for counter in {1045..1088}
 do
-    cp $file wip/image$counter.jpg
-    counter=$((counter+1))
+    cp wip/image$counter.jpg wip/image$counter.original.jpg
+    convert wip/image$counter.jpg -resize 960x1280 wip/image$counter.jpg
 done
