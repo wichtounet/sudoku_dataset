@@ -4,6 +4,7 @@ counter=1045
 
 for counter in {1045..1088}
 do
-    cp wip/image$counter.jpg wip/image$counter.original.jpg
-    convert wip/image$counter.jpg -resize 960x1280 wip/image$counter.jpg
+    resolution=`identify -format "%[fx:w]x%[fx:h]" wip/image$counter.jpg`
+    echo "Samsung Galaxy S4" > wip/image$counter.dat
+    echo "$resolution: 24 JPG" >> wip/image$counter.dat
 done
