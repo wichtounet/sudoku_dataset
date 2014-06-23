@@ -20,8 +20,8 @@ You can download the dataset using different ways:
 
 * Checkout this repository
 * Direct download an archive of the dataset:
-   * [v1_training.tar.bz2](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_training.tar.bz2)
-   * [v1_test.tar.bz2](https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_test.tar.bz2)
+   * `v1_training.tar.bz2 <https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_training.tar.bz2>`_
+   * `v1_test.tar.bz2 <https://github.com/wichtounet/sudoku_dataset/blob/master/datasets/v1_test.tar.bz2>`_
 
 
 References
@@ -35,6 +35,8 @@ Format
 ------
 
 The format of the dataset is really straightforward. For each imageX.jpg file, there is imageX.dat file contains the metadata for this file. Here is an example of such a file:
+
+::
 
     sonyEricsson s500i
     640x480:24 JPG
@@ -53,6 +55,6 @@ The first line contains the brand and model of the phone that took the picture. 
 Contact
 -------
 
-If you want your results to be published on this page, you can contact [Baptiste Wicht](mailto:baptiste.wicht@gmail.com) or make a Pull Request to the repository.
+If you want your results to be published on this page, you can contact `Baptiste Wicht <mailto:baptiste.wicht@gmail.com>`_ or make a Pull Request to the repository.
 
-If you have any question related to the dataset, you can contact [Baptiste Wicht](mailto:baptiste.wicht@gmail.com).
+If you have any question related to the dataset, you can contact `Baptiste Wicht <mailto:baptiste.wicht@gmail.com>`_.
