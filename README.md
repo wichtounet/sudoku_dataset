@@ -1,8 +1,8 @@
-## Sudoku Dataset
+## Sudoku Recognition Dataset (SRD)
 
 This dataset contains images of Sudoku taken in various newspapers using martphone Cameras.
 
-This dataset contains 160 pictures of Sudoku, divided into two sets: 120 training images and 40 test images. 
+This dataset contains 160 pictures of Sudoku, divided into two sets: 120 training images and 40 test images.
 
 ### Results
 
@@ -43,7 +43,7 @@ The format of the dataset is really straightforward. For each imageX.jpg file, t
     3 7 0 0 0 0 0 0 6
     1 0 5 0 0 4 0 0 0
 
-The first line contains the brand and model of the phone that took the picture. The second line contains information about the format of the image. Then the sudoku is described, 0 indicating an empty cell.
+The first line contains the brand and model of the phone that took the picture. The second line contains information about the format of the image. Then the contents sudoku are described, 0 indicating an empty cell.
 
 ### Contact
 
