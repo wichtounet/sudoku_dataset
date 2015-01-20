@@ -11,7 +11,7 @@ Results
 Here are some results that have been obtained on this dataset.
 
 1. Baptiste Wicht / Jean Hennebert (EIA-FR, Switzerland) : Hough Transform and DBN : 12.5% error rate
-  * Link to paper: Will come
+  * `Camera-based Sudoku recognition with deep belief network <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7007986>`_
 
 Usage
 -----
@@ -29,7 +29,19 @@ References
 
 If you want to use this dataset in a publication, please reference the following paper:
 
-Will come
+Wicht, Baptiste; Hennebert, Jean, "Camera-based Sudoku recognition with deep belief network" Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of , vol., no., pp.83,88, 11-14 Aug. 2014
+
+.. code:: bibtex
+
+    @INPROCEEDINGS{7007986,
+    author={Wicht, Baptiste and Hennebert, Jean},
+    booktitle={Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of},
+    title={Camera-based Sudoku recognition with deep belief network},
+    year={2014},
+    month={Aug},
+    pages={83-88},
+    keywords={Computer architecture;Image recognition;Image segmentation;Microprocessors;Standards;Training;Transforms;Camera-based OCR;Deep Belief Network;Text Detection;Text Recognition},
+    doi={10.1109/SOCPAR.2014.7007986},}
 
 Format
 ------
