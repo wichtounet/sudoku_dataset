@@ -33,27 +33,27 @@ If you want to use this dataset in a publication, please reference one the follo
 
 .. code:: bibtex
 
-@inproceedings{wicht2014camera,
-  title={Camera-based Sudoku recognition with deep belief network},
-  author={Wicht, Baptiste and Hennebert, Jean},
-  booktitle={Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of},
-  pages={83--88},
-  year={2014},
-  organization={IEEE}
-}
+    @inproceedings{wicht2014camera,
+      title={Camera-based Sudoku recognition with deep belief network},
+      author={Wicht, Baptiste and Hennebert, Jean},
+      booktitle={Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of},
+      pages={83--88},
+      year={2014},
+      organization={IEEE}
+    }
 
 * Wicht, Baptiste, and Jean Henneberty. "Mixed handwritten and printed digit recognition in Sudoku with Convolutional Deep Belief Network." Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015.
 
 .. code:: bibtex
 
-@inproceedings{wicht2015mixed,
-  title={Mixed handwritten and printed digit recognition in Sudoku with Convolutional Deep Belief Network},
-  author={Wicht, Baptiste and Henneberty, Jean},
-  booktitle={Document Analysis and Recognition (ICDAR), 2015 13th International Conference on},
-  pages={861--865},
-  year={2015},
-  organization={IEEE}
-}
+    @inproceedings{wicht2015mixed,
+      title={Mixed handwritten and printed digit recognition in Sudoku with Convolutional Deep Belief Network},
+      author={Wicht, Baptiste and Henneberty, Jean},
+      booktitle={Document Analysis and Recognition (ICDAR), 2015 13th International Conference on},
+      pages={861--865},
+      year={2015},
+      organization={IEEE}
+    }
 
 
 Format
