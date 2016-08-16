@@ -3,7 +3,7 @@ Sudoku Dataset
 
 This dataset contains images of Sudoku taken in various newspapers using martphone Cameras.
 
-This dataset contains 160 pictures of Sudoku, divided into two sets: 120 training images and 40 test images. 
+This dataset contains 160 pictures of Sudoku, divided into two sets: 120 training images and 40 test images.
 
 Results
 -------
@@ -27,21 +27,34 @@ You can download the dataset using different ways:
 References
 ----------
 
-If you want to use this dataset in a publication, please reference the following paper:
+If you want to use this dataset in a publication, please reference one the following papers:
 
-Wicht, Baptiste; Hennebert, Jean, "Camera-based Sudoku recognition with deep belief network" Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of , vol., no., pp.83,88, 11-14 Aug. 2014
+* Wicht, Baptiste; Hennebert, Jean, "Camera-based Sudoku recognition with deep belief network" Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of , vol., no., pp.83,88, 11-14 Aug. 2014
 
 .. code:: bibtex
 
-    @INPROCEEDINGS{7007986,
-    author={Wicht, Baptiste and Hennebert, Jean},
-    booktitle={Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of},
-    title={Camera-based Sudoku recognition with deep belief network},
-    year={2014},
-    month={Aug},
-    pages={83-88},
-    keywords={Computer architecture;Image recognition;Image segmentation;Microprocessors;Standards;Training;Transforms;Camera-based OCR;Deep Belief Network;Text Detection;Text Recognition},
-    doi={10.1109/SOCPAR.2014.7007986},}
+@inproceedings{wicht2014camera,
+  title={Camera-based Sudoku recognition with deep belief network},
+  author={Wicht, Baptiste and Hennebert, Jean},
+  booktitle={Soft Computing and Pattern Recognition (SoCPaR), 2014 6th International Conference of},
+  pages={83--88},
+  year={2014},
+  organization={IEEE}
+}
+
+* Wicht, Baptiste, and Jean Henneberty. "Mixed handwritten and printed digit recognition in Sudoku with Convolutional Deep Belief Network." Document Analysis and Recognition (ICDAR), 2015 13th International Conference on. IEEE, 2015.
+
+.. code:: bibtex
+
+@inproceedings{wicht2015mixed,
+  title={Mixed handwritten and printed digit recognition in Sudoku with Convolutional Deep Belief Network},
+  author={Wicht, Baptiste and Henneberty, Jean},
+  booktitle={Document Analysis and Recognition (ICDAR), 2015 13th International Conference on},
+  pages={861--865},
+  year={2015},
+  organization={IEEE}
+}
+
 
 Format
 ------
