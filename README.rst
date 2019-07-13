@@ -71,7 +71,12 @@ If you want to use this dataset in a publication, please reference one the follo
       year={2015},
       organization={IEEE}
     }
+    
+License
+-------
 
+The dataset and the images are released under the CC-BY-4.0 License.
+The code (cpp and bash) is released under the MIT License.
 
 Format
 ------
