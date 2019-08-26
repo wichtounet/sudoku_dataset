@@ -99,6 +99,12 @@ The format of the dataset should be straightforward. For each imageX.jpg file, t
 
 The first line contains the brand and model of the phone that took the picture. The second line contains information about the format of the image. Then the sudoku is described, 0 indicating an empty cell.
 
+Outlines
+--------
+
+The outlines of the sudoku grids have ben contributed by Lars @panexe
+With the outlines_sorted.csv file, you can train a model to recognize the grid themselves. 
+
 Contact
 -------
 
